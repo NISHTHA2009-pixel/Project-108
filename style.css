@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(120, 4, 167);
+}
+
+#note {
+    font-size: 15;
+    color: rgb(212, 0, 255);
+    text-shadow: 5px 5px 5px rgb(46, 45, 45);
+}
+
+#heading {
+
+    color: rgb(136, 0, 255);
+    text-shadow: 5px 5px 5px rgb(46, 45, 45);
+}
+
+#info {
+    text-align: center;
+
+}
+
+.btn {
+    background-color: blueviolet;
+    color: cornflowerblue;
+    font-size: larger;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px rgb(31, 30, 30);
+
+}
+
+#result_label,
+#result_confidence {
+    color: cornsilk;
+    text-shadow: 5px 5px 5px rgb(46, 45, 45);
+}
+
+.copy_footer {
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(2, 63, 121);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
